@@ -1,4 +1,3 @@
-btw use // to disable any code or text after eg //print("hello from fyp") and the code wont run ONLY THE LINES AFTER// you can chage this in the runner 
 # 🦊 FoxPy (.fpy) Script Runner & VS Code Plugin
 
 This project lets you create and run `.fpy` scripts — a custom file format that combines **JSON metadata** and **Python code** in a single file. It includes:
