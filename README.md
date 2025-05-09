@@ -1,3 +1,4 @@
+this will need the latest v for fyp go to https://github.com/gamminglord2012/foxes-ft-file-type- and install fyp and its outher file it runs needs to run maybe even have more later on.
 # 🦊 FoxPy (.fpy) Script Runner & VS Code Plugin
 
 This project lets you create and run `.fpy` scripts — a custom file format that combines **JSON metadata** and **Python code** in a single file. It includes:
